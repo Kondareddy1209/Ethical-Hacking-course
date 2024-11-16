@@ -36,21 +36,21 @@ This course focuses on various web security vulnerabilities and techniques to pr
 
 | Section | Topic | Duration | Status |
 | --- | --- | --- | --- |
-| 1. | Introduction | 1min | ❌ Not Started |
-| 2. | IDOR | 4min | ❌ Not Started |
-| 3. | Review Notes | 1min | ❌ Not Started |
-| 4. | Quiz 1: Quiz | - | ❌ Not Started |
-| 5. | Directory Traversal | 6min | ❌ Not Started |
-| 6. | Review Notes | 1min | ❌ Not Started |
-| 7. | Quiz 2: Quiz | - | ❌ Not Started |
-| 8. | Crypto Failures | 7min | ❌ Not Started |
-| 9. | Review Notes | 1min | ❌ Not Started |
-| 10. | Quiz 3: Quiz | - | ❌ Not Started |
-| 11. | Command Injection | 5min | ❌ Not Started |
-| 12. | Review Notes | 1min | ❌ Not Started |
-| 13. | Quiz 4: Quiz | - | ❌ Not Started |
-| 14. | Brute Force | 9min | ❌ Not Started |
-| 15. | Review Notes | 1min | ❌ Not Started |
+| 1. | Introduction | 1min | Completed |
+| 2. | IDOR | 4min | Completed |
+| 3. | Review Notes | 1min | Completed |
+| 4. | Quiz 1: Quiz | - | Completed |
+| 5. | Directory Traversal | 6min | Completed |
+| 6. | Review Notes | 1min | Completed |
+| 7. | Quiz 2: Quiz | - | Completed |
+| 8. | Crypto Failures | 7min | Completed |
+| 9. | Review Notes | 1min | Completed |
+| 10. | Quiz 3: Quiz | - | Completed |
+| 11. | Command Injection | 5min | Completed |
+| 12. | Review Notes | 1min | Completed |
+| 13. | Quiz 4: Quiz | - | Completed |
+| 14. | Brute Force | 9min | Completed |
+| 15. | Review Notes | 1min | Completed |
 | 16. | Quiz 5: Quiz | - | - |
 
 ---
@@ -72,53 +72,53 @@ The repository is organized by topics, with each topic containing directories fo
 | Day 1
 │   | Section 1: Introduction
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 2: IDOR
 │   │   | Duration: 4min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 3: Review Notes
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 4: Quiz 1: Quiz
 │   │   | Duration: -
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 5: Directory Traversal
 │   │   | Duration: 6min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 6: Review Notes
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 7: Quiz 2: Quiz
 │   │   | Duration: -
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 
 | Day 2
 │   | Section 8: Crypto Failures
 │   │   | Duration: 7min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 9: Review Notes
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 10: Quiz 3: Quiz
 │   │   | Duration: -
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 11: Command Injection
 │   │   | Duration: 5min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 12: Review Notes
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 13: Quiz 4: Quiz
 │   │   | Duration: -
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 
 | Day 3
 │   | Section 14: Brute Force
 │   │   | Duration: 9min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 15: Review Notes
 │   │   | Duration: 1min
-│   │   | Status: ❌ Not Started
+│   │   | Status: Completed
 │   | Section 16: Quiz 5: Quiz
 │   │   | Duration: -
 │   │   | Status: -
